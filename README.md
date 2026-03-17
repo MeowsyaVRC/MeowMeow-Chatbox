@@ -25,10 +25,22 @@ You can disable typing detection manually if you don't want it to register every
 Spanish, English, German, French, Russian, Japanese, Simplified Chinese, and Korean <3
 
 Maximum length: 144 characters (VRChat limit)
+<br>
+<br>
+<b><h2>New Functions! (From v1.1)</b>
+</h2>
+You can now use any device from your network!
+
+Go to OSC settings and enter your device IP (where VRChat is open)
+
+Video on Youtube:<br>
+[![Watch on Youtube](https://img.youtube.com/vi/YnDm6drkJk8/mqdefault.jpg)](https://www.youtube.com/watch?v=YnDm6drkJk8)
+
 
 <div align="center">
-  
-<b>Multi-Language Support:<b/>
+  <br>
+  <br>
+<b>Multi-Language Support:</b>
 <br>
 
 ![Interface](docs/images/LANG.png)
